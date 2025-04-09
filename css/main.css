@@ -21,7 +21,7 @@ body{
 }
 .parent {
     align-content: center;
-    background-image: url(/images/main_back_ground.jpg);
+    background-image: url(images/main_back_ground.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     height: 500px;
