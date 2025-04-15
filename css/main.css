@@ -216,6 +216,7 @@ transition:border-radius .5s ease ;
     height: 100%;
     object-fit: cover; 
     border-radius: 10px;
+    transition: ;
 }
 footer{
     background-color: var(--velvet--color);
